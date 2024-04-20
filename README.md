@@ -1,4 +1,7 @@
+![img](/bannersypher_.png)
+
 - I’m @syphr0
+Cybersecurity
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
